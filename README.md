@@ -1,3 +1,3 @@
-# Kickstarter-Analysis-Week-One
+# Kickstarter-Analysis-Crowdfunding
 Kickstarter analysis on funding projects
-# Kickstar-Analysis-Crowdfunding
+
