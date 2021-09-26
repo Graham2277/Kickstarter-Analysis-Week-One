@@ -1,5 +1,4 @@
 # Kickstarter-Analysis-Crowdfunding
-Kickstarter analysis on funding projects
 
 Kickstarter Analysis
 
